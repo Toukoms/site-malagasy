@@ -1,0 +1,22 @@
+@import url("global.css");
+
+.hero-fomba-fanao {
+  background-color: #4caf50;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.details {
+  padding: 50px 20px;
+  text-align: center;
+  color: #333;
+}
+
+.details h2 {
+  color: #4caf50;
+}
